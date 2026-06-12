@@ -1,0 +1,35 @@
+[
+  {
+    "label": "1 KB",
+    "size_bytes": 1024,
+    "size_kb": 1.0,
+    "enc_time_ms": 3.441,
+    "dec_time_ms": 4.085,
+    "enc_throughput_kbs": 290.64,
+    "dec_throughput_kbs": 244.78,
+    "correct": true,
+    "iterations": 3
+  },
+  {
+    "label": "100 KB",
+    "size_bytes": 102400,
+    "size_kb": 100.0,
+    "enc_time_ms": 368.688,
+    "dec_time_ms": 281.072,
+    "enc_throughput_kbs": 271.23,
+    "dec_throughput_kbs": 355.78,
+    "correct": true,
+    "iterations": 3
+  },
+  {
+    "label": "1 MB",
+    "size_bytes": 1048576,
+    "size_kb": 1024.0,
+    "enc_time_ms": 5420.591,
+    "dec_time_ms": 5591.844,
+    "enc_throughput_kbs": 188.91,
+    "dec_throughput_kbs": 183.12,
+    "correct": true,
+    "iterations": 3
+  }
+]
